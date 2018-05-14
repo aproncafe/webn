@@ -1,0 +1,12 @@
+font color
+
+<!--
+-->
+
+<style>
+  a {
+    color:skyblue;
+  }
+</style>
+
+css 삽입방법, style태그/속성(css아닌HTML임)
